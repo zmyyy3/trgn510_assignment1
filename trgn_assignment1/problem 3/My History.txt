@@ -1,0 +1,58 @@
+    1  git add README.md
+    2  git commit -m "first commit"
+    3  cd trgn510_assignment1/
+    4  ls
+    5  mv README.md trgn_assignment1
+    6  ls
+    7  cd ..
+    8  ls
+    9  rm trgn510_assignment1/
+   10  git add README.md
+   11  git commit -m "first commit"
+   12  exit
+   13  cd assignments/
+   14  cd trgn_assignment1/
+   15  ls
+   16  git init
+   17  vi README.md 
+   18  git add README.md 
+   19  git commit -m "First commit"
+   20  exit
+   21  cd assignments/
+   22  cd trgn_assignment1/
+   23  ls
+   24  rmdir trgn510_assignment1/
+   25  ls
+   26  cd trgn510_assignment1/
+   27  rm -rf
+   28  ls
+   29  cd trgn_assignment1 
+   30  rm trgn_assignment1 
+   31  ls
+   32  cd ..
+   33  ls
+   34  rmdir trgn510_assignment1/
+   35  cd trgn510_assignment1/
+   36  ls
+   37  rm -rf
+   38  ls
+   39  cd ..
+   40  ls
+   41  rm -r trgn510_assignment1/
+   42  ls
+   43  vi README.md 
+   44  git init
+   45  vi README.md 
+   46  git add README.md 
+   47  git commit -m "First commit"
+   48  git remotgit remote add origin https://github.com/zmyyy3/trgn510_assignment1.git
+   49  git remote add origin https://github.com/zmyyy3/trgn510_assignment1.git
+   50  exit
+   51  cd assignments/
+   52  cd trgn_assignment1/
+   53  ls -la
+   54  rm My\ History.text problem\ 3
+   55  ls
+   56  cd problem\ 3
+   57  ls
+   58  history > My\ History.txt

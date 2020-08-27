@@ -1,0 +1,5 @@
+root      70426   2718  0 13:32 ?        00:00:00 sshd: mzhang11 [priv]
+mzhang11  70437  70426  0 13:33 ?        00:00:00 sshd: mzhang11@pts/0
+mzhang11  70439  70437  0 13:33 pts/0    00:00:00 -bash
+mzhang11  70988  70439  0 13:40 pts/0    00:00:00 ps -ef
+mzhang11  70989  70439  0 13:40 pts/0    00:00:00 grep --color=auto mzhang11
